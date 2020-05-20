@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+}
+
+.navbar-brand-search{
+    width: 290px;
+    height: 35px;
+    border: 2px solid #8c8c8c;
+    border-radius: 5px;
+}
+
+.navbar-info{
+ height: 70px;
+ background-color: #523468;   
+}
+
+.navbar-info-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    padding: 10px;
+    color: #ffffff;
+    font-style: italic;
+}
+
+.content-potions{
+    margin-top: 50px;
+    padding: 10px;
+   
+}
+
+.content-potions-table{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    list-style-type: none;
+}
+
+
+.content-footer{
+
+background-color: #c9c9c9;
+}
